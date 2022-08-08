@@ -24,7 +24,7 @@
         azureLoader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
         
         BackFrame.Name = "BackFrame"
-        BackFrame.Parent = FORTNITE
+        BackFrame.Parent = azureLoader
         BackFrame.AnchorPoint = Vector2.new(0.5, 0.5)
         BackFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         BackFrame.Position = UDim2.new(0.493000001, 0, 1.07000005, 0)
